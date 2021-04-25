@@ -1,0 +1,16 @@
+PODS:
+  - KKCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - KKCategoryKit
+
+SPEC REPOS:
+  https://github.com/KongProPersonal/KKSpecs.git:
+    - KKCategoryKit
+
+SPEC CHECKSUMS:
+  KKCategoryKit: 4512cf6e45d0eed30ee341338f278acd0541b847
+
+PODFILE CHECKSUM: 0291ad4a9fe77f92970f520ef1de3850119c0d75
+
+COCOAPODS: 1.10.0
